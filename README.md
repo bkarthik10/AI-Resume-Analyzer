@@ -12,29 +12,23 @@ A full-stack web application that analyzes a resume against a target job role, c
 
 ### Dashboard
 
-![Dashboard](docs/screenshots/01-dashboard.png)
+![Dashboard](doc/screenshots/dashboard.png)
 
 ### Resume Upload
 
-![Resume Upload](docs/screenshots/02-resume-upload.png)
+![Resume Upload](doc/screenshots/discription.png)
 
 ### Target Job Role
 
-![Target Job Role](docs/screenshots/03-target-role.png)
+![Target Job Role](doc/screenshots/target-role.png)
 
 ### Analysis Results
 
-![Analysis Results](docs/screenshots/04-analysis-results.png)
+![Analysis Results](doc/screenshots/analysis-results.png)
 
 ### Recommendations
 
-![Recommendations](docs/screenshots/05-recommendations.png)
-
-### ATS Breakdown
-
-![ATS Breakdown](docs/screenshots/06-ats-breakdown.png)
-
----
+![Recommendations](doc/screenshots/Recommendations.png)
 
 ## Features
 
