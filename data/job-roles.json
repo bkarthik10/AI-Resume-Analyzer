@@ -1,0 +1,1366 @@
+[
+ {
+  "name": "Software Engineer",
+  "description": "Software design and development using data structures, OOP, version control, databases, APIs and agile practices.",
+  "keywords": [
+   "scalable",
+   "performance optimization",
+   "unit testing",
+   "design patterns",
+   "clean code",
+   "debugging",
+   "code review",
+   "api design"
+  ],
+  "skills": [
+   {
+    "name": "Data Structures",
+    "weight": 3
+   },
+   {
+    "name": "OOP",
+    "weight": 3
+   },
+   {
+    "name": "Java",
+    "weight": 2
+   },
+   {
+    "name": "Python",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 3
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Design Patterns",
+    "weight": 2
+   },
+   {
+    "name": "System Design",
+    "weight": 1
+   },
+   {
+    "name": "Agile",
+    "weight": 2
+   },
+   {
+    "name": "JUnit",
+    "weight": 1
+   },
+   {
+    "name": "Docker",
+    "weight": 1
+   },
+   {
+    "name": "Linux",
+    "weight": 1
+   },
+   {
+    "name": "CI/CD",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Java Developer",
+  "description": "Application development using Java, Spring, Hibernate, SQL databases, Maven and unit testing.",
+  "keywords": [
+   "scalable",
+   "performance optimization",
+   "unit testing",
+   "design patterns",
+   "clean code",
+   "debugging",
+   "code review",
+   "api design"
+  ],
+  "skills": [
+   {
+    "name": "Java",
+    "weight": 3
+   },
+   {
+    "name": "Spring Boot",
+    "weight": 3
+   },
+   {
+    "name": "Spring Framework",
+    "weight": 2
+   },
+   {
+    "name": "Hibernate/JPA",
+    "weight": 2
+   },
+   {
+    "name": "MySQL",
+    "weight": 2
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Maven",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "JUnit",
+    "weight": 2
+   },
+   {
+    "name": "OOP",
+    "weight": 3
+   },
+   {
+    "name": "Data Structures",
+    "weight": 2
+   },
+   {
+    "name": "Design Patterns",
+    "weight": 1
+   },
+   {
+    "name": "Docker",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Java Backend Developer",
+  "description": "Backend development using Java, Spring Boot, REST APIs, MySQL, Docker, AWS, Microservices, etc.",
+  "keywords": [
+   "scalable",
+   "performance optimization",
+   "unit testing",
+   "design patterns",
+   "clean code",
+   "debugging",
+   "code review",
+   "api design"
+  ],
+  "skills": [
+   {
+    "name": "Java",
+    "weight": 3
+   },
+   {
+    "name": "Spring Boot",
+    "weight": 3
+   },
+   {
+    "name": "REST API",
+    "weight": 3
+   },
+   {
+    "name": "MySQL",
+    "weight": 3
+   },
+   {
+    "name": "Hibernate/JPA",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 3
+   },
+   {
+    "name": "AWS",
+    "weight": 3
+   },
+   {
+    "name": "Redis",
+    "weight": 2
+   },
+   {
+    "name": "Kafka",
+    "weight": 2
+   },
+   {
+    "name": "Microservices",
+    "weight": 2
+   },
+   {
+    "name": "Kubernetes",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "Maven",
+    "weight": 1
+   },
+   {
+    "name": "JUnit",
+    "weight": 2
+   },
+   {
+    "name": "Spring Security",
+    "weight": 1
+   },
+   {
+    "name": "OOP",
+    "weight": 2
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "Postman",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Backend Developer",
+  "description": "Server-side development: REST APIs, databases, caching, authentication, containers and cloud deployment.",
+  "keywords": [
+   "scalable",
+   "performance optimization",
+   "unit testing",
+   "design patterns",
+   "clean code",
+   "debugging",
+   "code review",
+   "api design"
+  ],
+  "skills": [
+   {
+    "name": "REST API",
+    "weight": 3
+   },
+   {
+    "name": "SQL",
+    "weight": 3
+   },
+   {
+    "name": "Node.js",
+    "weight": 2
+   },
+   {
+    "name": "Java",
+    "weight": 2
+   },
+   {
+    "name": "Spring Boot",
+    "weight": 2
+   },
+   {
+    "name": "MySQL",
+    "weight": 2
+   },
+   {
+    "name": "PostgreSQL",
+    "weight": 2
+   },
+   {
+    "name": "MongoDB",
+    "weight": 1
+   },
+   {
+    "name": "Redis",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 3
+   },
+   {
+    "name": "Microservices",
+    "weight": 2
+   },
+   {
+    "name": "System Design",
+    "weight": 1
+   },
+   {
+    "name": "JWT",
+    "weight": 1
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   },
+   {
+    "name": "Kafka",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Frontend Developer",
+  "description": "Building responsive user interfaces with HTML, CSS, JavaScript and modern frameworks such as React.",
+  "keywords": [
+   "responsive design",
+   "accessibility",
+   "performance optimization",
+   "cross-browser",
+   "ui/ux",
+   "component-based",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "HTML",
+    "weight": 3
+   },
+   {
+    "name": "CSS",
+    "weight": 3
+   },
+   {
+    "name": "JavaScript",
+    "weight": 3
+   },
+   {
+    "name": "React",
+    "weight": 3
+   },
+   {
+    "name": "TypeScript",
+    "weight": 2
+   },
+   {
+    "name": "Redux",
+    "weight": 1
+   },
+   {
+    "name": "Responsive Design",
+    "weight": 2
+   },
+   {
+    "name": "Bootstrap",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Angular",
+    "weight": 1
+   },
+   {
+    "name": "Cypress",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Full Stack Developer",
+  "description": "End-to-end web development across frontend, backend APIs, databases and deployment.",
+  "keywords": [
+   "responsive design",
+   "accessibility",
+   "performance optimization",
+   "cross-browser",
+   "ui/ux",
+   "component-based",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "HTML",
+    "weight": 2
+   },
+   {
+    "name": "CSS",
+    "weight": 2
+   },
+   {
+    "name": "JavaScript",
+    "weight": 3
+   },
+   {
+    "name": "React",
+    "weight": 3
+   },
+   {
+    "name": "Node.js",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 3
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "MongoDB",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 3
+   },
+   {
+    "name": "Docker",
+    "weight": 1
+   },
+   {
+    "name": "TypeScript",
+    "weight": 1
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   },
+   {
+    "name": "CI/CD",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "MERN Stack Developer",
+  "description": "Web applications using MongoDB, Express.js, React and Node.js.",
+  "keywords": [
+   "responsive design",
+   "accessibility",
+   "performance optimization",
+   "cross-browser",
+   "ui/ux",
+   "component-based",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "MongoDB",
+    "weight": 3
+   },
+   {
+    "name": "Express.js",
+    "weight": 3
+   },
+   {
+    "name": "React",
+    "weight": 3
+   },
+   {
+    "name": "Node.js",
+    "weight": 3
+   },
+   {
+    "name": "JavaScript",
+    "weight": 3
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "HTML",
+    "weight": 2
+   },
+   {
+    "name": "CSS",
+    "weight": 2
+   },
+   {
+    "name": "Redux",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "JWT",
+    "weight": 1
+   },
+   {
+    "name": "TypeScript",
+    "weight": 1
+   },
+   {
+    "name": "Docker",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Python Developer",
+  "description": "Application and API development using Python, Django/Flask/FastAPI, SQL databases and containers.",
+  "keywords": [
+   "scalable",
+   "performance optimization",
+   "unit testing",
+   "design patterns",
+   "clean code",
+   "debugging",
+   "code review",
+   "api design"
+  ],
+  "skills": [
+   {
+    "name": "Python",
+    "weight": 3
+   },
+   {
+    "name": "Django",
+    "weight": 2
+   },
+   {
+    "name": "Flask",
+    "weight": 2
+   },
+   {
+    "name": "FastAPI",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "PostgreSQL",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 2
+   },
+   {
+    "name": "Pandas",
+    "weight": 1
+   },
+   {
+    "name": "Linux",
+    "weight": 1
+   },
+   {
+    "name": "Data Structures",
+    "weight": 1
+   },
+   {
+    "name": "OOP",
+    "weight": 1
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Data Scientist",
+  "description": "Analysing data and building models using Python, statistics, machine learning and visualization.",
+  "keywords": [
+   "data pipelines",
+   "data modeling",
+   "data cleaning",
+   "feature engineering",
+   "visualization",
+   "statistical analysis",
+   "model evaluation",
+   "insights"
+  ],
+  "skills": [
+   {
+    "name": "Python",
+    "weight": 3
+   },
+   {
+    "name": "Pandas",
+    "weight": 3
+   },
+   {
+    "name": "NumPy",
+    "weight": 3
+   },
+   {
+    "name": "Machine Learning",
+    "weight": 3
+   },
+   {
+    "name": "Scikit-learn",
+    "weight": 3
+   },
+   {
+    "name": "Statistics",
+    "weight": 3
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "Data Visualization",
+    "weight": 2
+   },
+   {
+    "name": "Deep Learning",
+    "weight": 1
+   },
+   {
+    "name": "TensorFlow",
+    "weight": 1
+   },
+   {
+    "name": "PyTorch",
+    "weight": 1
+   },
+   {
+    "name": "NLP",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Data Engineer",
+  "description": "Building data pipelines and warehouses using Python, SQL, Spark, Airflow and cloud services.",
+  "keywords": [
+   "data pipelines",
+   "data modeling",
+   "data cleaning",
+   "feature engineering",
+   "visualization",
+   "statistical analysis",
+   "model evaluation",
+   "insights"
+  ],
+  "skills": [
+   {
+    "name": "Python",
+    "weight": 3
+   },
+   {
+    "name": "SQL",
+    "weight": 3
+   },
+   {
+    "name": "ETL",
+    "weight": 3
+   },
+   {
+    "name": "Apache Spark",
+    "weight": 3
+   },
+   {
+    "name": "Airflow",
+    "weight": 2
+   },
+   {
+    "name": "Data Warehousing",
+    "weight": 2
+   },
+   {
+    "name": "Kafka",
+    "weight": 2
+   },
+   {
+    "name": "AWS",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 1
+   },
+   {
+    "name": "PostgreSQL",
+    "weight": 1
+   },
+   {
+    "name": "MongoDB",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "Linux",
+    "weight": 1
+   },
+   {
+    "name": "Pandas",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Machine Learning Engineer",
+  "description": "Training, evaluating and deploying machine learning models in production.",
+  "keywords": [
+   "data pipelines",
+   "data modeling",
+   "data cleaning",
+   "feature engineering",
+   "visualization",
+   "statistical analysis",
+   "model evaluation",
+   "insights"
+  ],
+  "skills": [
+   {
+    "name": "Python",
+    "weight": 3
+   },
+   {
+    "name": "Machine Learning",
+    "weight": 3
+   },
+   {
+    "name": "Scikit-learn",
+    "weight": 2
+   },
+   {
+    "name": "TensorFlow",
+    "weight": 2
+   },
+   {
+    "name": "PyTorch",
+    "weight": 2
+   },
+   {
+    "name": "Deep Learning",
+    "weight": 3
+   },
+   {
+    "name": "NumPy",
+    "weight": 2
+   },
+   {
+    "name": "Pandas",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 2
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "SQL",
+    "weight": 1
+   },
+   {
+    "name": "NLP",
+    "weight": 1
+   },
+   {
+    "name": "Statistics",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "AI Engineer",
+  "description": "Building AI-powered applications using LLMs, NLP, deep learning frameworks and APIs.",
+  "keywords": [
+   "data pipelines",
+   "data modeling",
+   "data cleaning",
+   "feature engineering",
+   "visualization",
+   "statistical analysis",
+   "model evaluation",
+   "insights"
+  ],
+  "skills": [
+   {
+    "name": "Python",
+    "weight": 3
+   },
+   {
+    "name": "Machine Learning",
+    "weight": 2
+   },
+   {
+    "name": "Deep Learning",
+    "weight": 2
+   },
+   {
+    "name": "LLMs",
+    "weight": 3
+   },
+   {
+    "name": "NLP",
+    "weight": 2
+   },
+   {
+    "name": "PyTorch",
+    "weight": 2
+   },
+   {
+    "name": "TensorFlow",
+    "weight": 1
+   },
+   {
+    "name": "FastAPI",
+    "weight": 2
+   },
+   {
+    "name": "Docker",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   },
+   {
+    "name": "SQL",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Cloud Engineer",
+  "description": "Designing and operating cloud infrastructure with AWS/Azure, containers and infrastructure as code.",
+  "keywords": [
+   "automation",
+   "infrastructure as code",
+   "monitoring",
+   "high availability",
+   "scalability",
+   "deployment",
+   "incident response",
+   "observability"
+  ],
+  "skills": [
+   {
+    "name": "AWS",
+    "weight": 3
+   },
+   {
+    "name": "Azure",
+    "weight": 2
+   },
+   {
+    "name": "GCP",
+    "weight": 1
+   },
+   {
+    "name": "Linux",
+    "weight": 3
+   },
+   {
+    "name": "Docker",
+    "weight": 2
+   },
+   {
+    "name": "Kubernetes",
+    "weight": 2
+   },
+   {
+    "name": "Terraform",
+    "weight": 3
+   },
+   {
+    "name": "CI/CD",
+    "weight": 2
+   },
+   {
+    "name": "Shell Scripting",
+    "weight": 2
+   },
+   {
+    "name": "Network Security",
+    "weight": 1
+   },
+   {
+    "name": "Python",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "Ansible",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "DevOps Engineer",
+  "description": "Automating build, test and deployment pipelines with CI/CD, containers and infrastructure as code.",
+  "keywords": [
+   "automation",
+   "infrastructure as code",
+   "monitoring",
+   "high availability",
+   "scalability",
+   "deployment",
+   "incident response",
+   "observability"
+  ],
+  "skills": [
+   {
+    "name": "Docker",
+    "weight": 3
+   },
+   {
+    "name": "Kubernetes",
+    "weight": 3
+   },
+   {
+    "name": "Jenkins",
+    "weight": 2
+   },
+   {
+    "name": "CI/CD",
+    "weight": 3
+   },
+   {
+    "name": "Git",
+    "weight": 3
+   },
+   {
+    "name": "Linux",
+    "weight": 3
+   },
+   {
+    "name": "Terraform",
+    "weight": 2
+   },
+   {
+    "name": "Ansible",
+    "weight": 2
+   },
+   {
+    "name": "AWS",
+    "weight": 2
+   },
+   {
+    "name": "Shell Scripting",
+    "weight": 2
+   },
+   {
+    "name": "Prometheus/Grafana",
+    "weight": 2
+   },
+   {
+    "name": "GitHub Actions",
+    "weight": 1
+   },
+   {
+    "name": "Python",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Android Developer",
+  "description": "Building Android applications using Kotlin/Java, Android SDK and REST APIs.",
+  "keywords": [
+   "ui/ux",
+   "offline support",
+   "push notifications",
+   "app store",
+   "performance optimization",
+   "responsive layouts",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "Android",
+    "weight": 3
+   },
+   {
+    "name": "Kotlin",
+    "weight": 3
+   },
+   {
+    "name": "Java",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "SQL",
+    "weight": 1
+   },
+   {
+    "name": "JUnit",
+    "weight": 1
+   },
+   {
+    "name": "Agile",
+    "weight": 1
+   },
+   {
+    "name": "Design Patterns",
+    "weight": 1
+   },
+   {
+    "name": "OOP",
+    "weight": 2
+   }
+  ]
+ },
+ {
+  "name": "QA Engineer",
+  "description": "Testing software manually and with automation tools, tracking defects and validating APIs.",
+  "keywords": [
+   "test automation",
+   "regression testing",
+   "bug tracking",
+   "test coverage",
+   "test plans",
+   "defect",
+   "quality assurance",
+   "acceptance testing"
+  ],
+  "skills": [
+   {
+    "name": "Manual Testing",
+    "weight": 3
+   },
+   {
+    "name": "Selenium",
+    "weight": 3
+   },
+   {
+    "name": "API Testing",
+    "weight": 2
+   },
+   {
+    "name": "Postman",
+    "weight": 2
+   },
+   {
+    "name": "Jira",
+    "weight": 2
+   },
+   {
+    "name": "Agile",
+    "weight": 2
+   },
+   {
+    "name": "Java",
+    "weight": 2
+   },
+   {
+    "name": "Python",
+    "weight": 1
+   },
+   {
+    "name": "SQL",
+    "weight": 2
+   },
+   {
+    "name": "CI/CD",
+    "weight": 1
+   },
+   {
+    "name": "Cypress",
+    "weight": 1
+   },
+   {
+    "name": "JUnit",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   }
+  ]
+ },
+ {
+  "name": "Cybersecurity Engineer",
+  "description": "Protecting systems through network security, vulnerability assessment, monitoring and secure design.",
+  "keywords": [
+   "vulnerability assessment",
+   "threat modeling",
+   "incident response",
+   "risk assessment",
+   "compliance",
+   "hardening",
+   "firewall",
+   "encryption"
+  ],
+  "skills": [
+   {
+    "name": "Network Security",
+    "weight": 3
+   },
+   {
+    "name": "Penetration Testing",
+    "weight": 3
+   },
+   {
+    "name": "OWASP",
+    "weight": 3
+   },
+   {
+    "name": "Linux",
+    "weight": 2
+   },
+   {
+    "name": "Wireshark",
+    "weight": 2
+   },
+   {
+    "name": "Nmap",
+    "weight": 2
+   },
+   {
+    "name": "Burp Suite",
+    "weight": 2
+   },
+   {
+    "name": "SIEM",
+    "weight": 2
+   },
+   {
+    "name": "Cryptography",
+    "weight": 2
+   },
+   {
+    "name": "Python",
+    "weight": 1
+   },
+   {
+    "name": "Shell Scripting",
+    "weight": 1
+   },
+   {
+    "name": "AWS",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Database Developer",
+  "description": "Designing schemas and writing efficient SQL, stored procedures and queries.",
+  "keywords": [
+   "data pipelines",
+   "data modeling",
+   "data cleaning",
+   "feature engineering",
+   "visualization",
+   "statistical analysis",
+   "model evaluation",
+   "insights"
+  ],
+  "skills": [
+   {
+    "name": "SQL",
+    "weight": 3
+   },
+   {
+    "name": "MySQL",
+    "weight": 3
+   },
+   {
+    "name": "PostgreSQL",
+    "weight": 2
+   },
+   {
+    "name": "Oracle",
+    "weight": 2
+   },
+   {
+    "name": "Stored Procedures",
+    "weight": 3
+   },
+   {
+    "name": "Database Design",
+    "weight": 3
+   },
+   {
+    "name": "Data Warehousing",
+    "weight": 1
+   },
+   {
+    "name": "ETL",
+    "weight": 1
+   },
+   {
+    "name": "MongoDB",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 1
+   },
+   {
+    "name": "Python",
+    "weight": 1
+   },
+   {
+    "name": "Linux",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Web Developer",
+  "description": "Building websites and web applications using HTML, CSS, JavaScript and responsive design.",
+  "keywords": [
+   "responsive design",
+   "accessibility",
+   "performance optimization",
+   "cross-browser",
+   "ui/ux",
+   "component-based",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "HTML",
+    "weight": 3
+   },
+   {
+    "name": "CSS",
+    "weight": 3
+   },
+   {
+    "name": "JavaScript",
+    "weight": 3
+   },
+   {
+    "name": "Responsive Design",
+    "weight": 2
+   },
+   {
+    "name": "Bootstrap",
+    "weight": 2
+   },
+   {
+    "name": "React",
+    "weight": 1
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "REST API",
+    "weight": 1
+   },
+   {
+    "name": "SQL",
+    "weight": 1
+   },
+   {
+    "name": "Node.js",
+    "weight": 1
+   }
+  ]
+ },
+ {
+  "name": "Mobile Developer",
+  "description": "Building cross-platform and native mobile apps backed by REST APIs.",
+  "keywords": [
+   "ui/ux",
+   "offline support",
+   "push notifications",
+   "app store",
+   "performance optimization",
+   "responsive layouts",
+   "state management",
+   "unit testing"
+  ],
+  "skills": [
+   {
+    "name": "Android",
+    "weight": 2
+   },
+   {
+    "name": "Flutter",
+    "weight": 2
+   },
+   {
+    "name": "React Native",
+    "weight": 2
+   },
+   {
+    "name": "Kotlin",
+    "weight": 2
+   },
+   {
+    "name": "Java",
+    "weight": 1
+   },
+   {
+    "name": "REST API",
+    "weight": 2
+   },
+   {
+    "name": "Git",
+    "weight": 2
+   },
+   {
+    "name": "JavaScript",
+    "weight": 1
+   },
+   {
+    "name": "Agile",
+    "weight": 1
+   },
+   {
+    "name": "SQL",
+    "weight": 1
+   }
+  ]
+ }
+]

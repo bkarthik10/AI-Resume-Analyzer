@@ -1,0 +1,245 @@
+[
+ {
+  "name": "Spring Boot Microservices Application",
+  "description": "Split an e-commerce app into user, product and order services with REST calls and containers.",
+  "skills": [
+   "Java",
+   "Spring Boot",
+   "REST API",
+   "MySQL",
+   "Docker",
+   "Microservices"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "REST API with JWT Authentication",
+  "description": "Build a secured REST API with registration, token login and role-based access.",
+  "skills": [
+   "Java",
+   "Spring Boot",
+   "Spring Security",
+   "JWT",
+   "MySQL",
+   "Postman"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Containerized App Deployed on AWS",
+  "description": "Dockerize an application and deploy it on an EC2 instance with a database on RDS.",
+  "skills": [
+   "Docker",
+   "AWS",
+   "Linux",
+   "CI/CD",
+   "Git"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Event-Driven Order System with Kafka",
+  "description": "Publish and consume order events between services using Kafka topics.",
+  "skills": [
+   "Kafka",
+   "Spring Boot",
+   "Java",
+   "Microservices",
+   "Docker"
+  ],
+  "difficulty": "Advanced"
+ },
+ {
+  "name": "Cached Product API with Redis",
+  "description": "Add Redis caching to a product catalogue API and measure the response-time improvement.",
+  "skills": [
+   "Redis",
+   "Spring Boot",
+   "MySQL",
+   "REST API",
+   "Java"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "CI/CD Pipeline for a Web App",
+  "description": "Automate build, test and Docker image publishing on every push.",
+  "skills": [
+   "Jenkins",
+   "GitHub Actions",
+   "CI/CD",
+   "Docker",
+   "Git"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Kubernetes Deployment of a Multi-Service App",
+  "description": "Deploy several containerized services to a local Kubernetes cluster.",
+  "skills": [
+   "Kubernetes",
+   "Docker",
+   "Microservices",
+   "Linux"
+  ],
+  "difficulty": "Advanced"
+ },
+ {
+  "name": "Full Stack MERN Task Manager",
+  "description": "Task manager with a React UI, Express API and MongoDB storage.",
+  "skills": [
+   "MongoDB",
+   "Express.js",
+   "React",
+   "Node.js",
+   "JavaScript",
+   "REST API"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Responsive Portfolio Website",
+  "description": "Personal portfolio that adapts to phones, tablets and desktops.",
+  "skills": [
+   "HTML",
+   "CSS",
+   "JavaScript",
+   "Responsive Design",
+   "Bootstrap",
+   "Git"
+  ],
+  "difficulty": "Beginner"
+ },
+ {
+  "name": "Sales Data Analysis and Dashboard",
+  "description": "Clean a sales dataset and present trends with charts.",
+  "skills": [
+   "Python",
+   "Pandas",
+   "NumPy",
+   "Data Visualization",
+   "SQL",
+   "Statistics"
+  ],
+  "difficulty": "Beginner"
+ },
+ {
+  "name": "Machine Learning Prediction Model",
+  "description": "Train and evaluate a prediction model on a public dataset.",
+  "skills": [
+   "Python",
+   "Scikit-learn",
+   "Machine Learning",
+   "Pandas",
+   "NumPy"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Data Pipeline with Spark and Airflow",
+  "description": "Schedule an ETL job that transforms raw files into warehouse tables.",
+  "skills": [
+   "Apache Spark",
+   "Airflow",
+   "ETL",
+   "Python",
+   "SQL"
+  ],
+  "difficulty": "Advanced"
+ },
+ {
+  "name": "Infrastructure as Code with Terraform",
+  "description": "Provision cloud servers and networking from Terraform files.",
+  "skills": [
+   "Terraform",
+   "AWS",
+   "Linux",
+   "Shell Scripting",
+   "Ansible"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Test Automation Framework",
+  "description": "Automate UI and API test suites with reports and a CI run.",
+  "skills": [
+   "Selenium",
+   "Java",
+   "API Testing",
+   "Postman",
+   "Jira",
+   "Cypress"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Android Notes App with REST Backend",
+  "description": "Notes app that syncs with a small REST service.",
+  "skills": [
+   "Android",
+   "Kotlin",
+   "REST API",
+   "SQL"
+  ],
+  "difficulty": "Beginner"
+ },
+ {
+  "name": "LLM Chatbot with FastAPI",
+  "description": "Chatbot API that calls a language model and serves answers over HTTP.",
+  "skills": [
+   "LLMs",
+   "Python",
+   "FastAPI",
+   "NLP",
+   "Docker"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Web Vulnerability Assessment Lab",
+  "description": "Scan and document vulnerabilities in a deliberately vulnerable web app.",
+  "skills": [
+   "OWASP",
+   "Burp Suite",
+   "Penetration Testing",
+   "Nmap",
+   "Wireshark"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Library Management Database",
+  "description": "Design a normalized schema with stored procedures and reports.",
+  "skills": [
+   "SQL",
+   "MySQL",
+   "Stored Procedures",
+   "Database Design"
+  ],
+  "difficulty": "Beginner"
+ },
+ {
+  "name": "React Dashboard with Redux",
+  "description": "Dashboard that loads API data and manages state with Redux.",
+  "skills": [
+   "React",
+   "Redux",
+   "TypeScript",
+   "REST API",
+   "Responsive Design"
+  ],
+  "difficulty": "Intermediate"
+ },
+ {
+  "name": "Django Blog API",
+  "description": "Blog backend with posts, comments and a PostgreSQL database.",
+  "skills": [
+   "Django",
+   "Python",
+   "PostgreSQL",
+   "REST API",
+   "Docker"
+  ],
+  "difficulty": "Beginner"
+ }
+]

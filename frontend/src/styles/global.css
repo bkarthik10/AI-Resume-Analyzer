@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+/* overflow-x only on <html>: setting it on <body> too turns body into a scroll container and breaks position: sticky */
+html { overflow-x: hidden; }
+body { margin: 0; }
+body {
+  font-family: Inter, 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: #f3f6fb; color: #1b2433; font-size: 14px;
+}
+h1, h2, h3, h4 { margin: 0; }
+a { color: #1763e6; }
+.btn { border: 1px solid transparent; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 14px; padding: 9px 16px; }
+.btn:disabled { opacity: .6; cursor: not-allowed; }
+.btn-primary { background: #1763e6; color: #fff; }
+.btn-primary:hover:not(:disabled) { background: #0f50c4; }
+.btn-primary.sm { padding: 6px 18px; }
+.btn-primary.lg { padding: 12px 40px; font-size: 15px; }
+.btn-outline { background: #fff; color: #1763e6; border-color: #1763e6; }
+.field {
+  width: 100%; border: 1px solid #cfd8e6; border-radius: 6px; padding: 9px 12px;
+  font: inherit; background: #fff; margin-bottom: 10px;
+}
+.field:focus { outline: 2px solid #b9d0fa; border-color: #1763e6; }
+textarea.field { resize: vertical; }
+.muted, .hint { color: #6b778c; font-size: 12px; margin: 4px 0 8px; }
+.error-text { color: #c62828; font-size: 12px; }

@@ -1,0 +1,332 @@
+[
+ {
+  "skill": "Docker",
+  "resource": "Get Started with Docker",
+  "provider": "Docker Docs",
+  "link": "https://docs.docker.com/get-started/"
+ },
+ {
+  "skill": "Kubernetes",
+  "resource": "Learn Kubernetes Basics",
+  "provider": "Kubernetes Docs",
+  "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+ },
+ {
+  "skill": "AWS",
+  "resource": "AWS Getting Started Resource Center",
+  "provider": "Amazon Web Services",
+  "link": "https://aws.amazon.com/getting-started/"
+ },
+ {
+  "skill": "Azure",
+  "resource": "Microsoft Azure Training",
+  "provider": "Microsoft Learn",
+  "link": "https://learn.microsoft.com/en-us/training/azure/"
+ },
+ {
+  "skill": "GCP",
+  "resource": "Google Cloud Training",
+  "provider": "Google Cloud",
+  "link": "https://cloud.google.com/learn/training"
+ },
+ {
+  "skill": "Redis",
+  "resource": "Redis Get Started",
+  "provider": "Redis Docs",
+  "link": "https://redis.io/docs/latest/get-started/"
+ },
+ {
+  "skill": "Kafka",
+  "resource": "Apache Kafka Quickstart",
+  "provider": "Apache Kafka",
+  "link": "https://kafka.apache.org/quickstart"
+ },
+ {
+  "skill": "Microservices",
+  "resource": "Spring Microservices Guides",
+  "provider": "Spring",
+  "link": "https://spring.io/microservices"
+ },
+ {
+  "skill": "Spring Boot",
+  "resource": "Spring Guides",
+  "provider": "Spring",
+  "link": "https://spring.io/guides"
+ },
+ {
+  "skill": "Spring Security",
+  "resource": "Securing a Web Application",
+  "provider": "Spring",
+  "link": "https://spring.io/guides/gs/securing-web"
+ },
+ {
+  "skill": "Hibernate/JPA",
+  "resource": "Accessing Data with JPA",
+  "provider": "Spring",
+  "link": "https://spring.io/guides/gs/accessing-data-jpa"
+ },
+ {
+  "skill": "REST API",
+  "resource": "Building REST Services with Spring",
+  "provider": "Spring",
+  "link": "https://spring.io/guides/tutorials/rest"
+ },
+ {
+  "skill": "Java",
+  "resource": "Learn Java",
+  "provider": "dev.java (Oracle)",
+  "link": "https://dev.java/learn/"
+ },
+ {
+  "skill": "JUnit",
+  "resource": "JUnit 5 User Guide",
+  "provider": "JUnit",
+  "link": "https://junit.org/junit5/docs/current/user-guide/"
+ },
+ {
+  "skill": "Maven",
+  "resource": "Maven Getting Started Guide",
+  "provider": "Apache Maven",
+  "link": "https://maven.apache.org/guides/getting-started/"
+ },
+ {
+  "skill": "MySQL",
+  "resource": "MySQL Tutorial",
+  "provider": "MySQL Docs",
+  "link": "https://dev.mysql.com/doc/refman/8.0/en/tutorial.html"
+ },
+ {
+  "skill": "SQL",
+  "resource": "MySQL Tutorial",
+  "provider": "MySQL Docs",
+  "link": "https://dev.mysql.com/doc/refman/8.0/en/tutorial.html"
+ },
+ {
+  "skill": "PostgreSQL",
+  "resource": "PostgreSQL Tutorial",
+  "provider": "PostgreSQL Docs",
+  "link": "https://www.postgresql.org/docs/current/tutorial.html"
+ },
+ {
+  "skill": "MongoDB",
+  "resource": "MongoDB University",
+  "provider": "MongoDB",
+  "link": "https://learn.mongodb.com/"
+ },
+ {
+  "skill": "Git",
+  "resource": "Pro Git Book",
+  "provider": "Git",
+  "link": "https://git-scm.com/book/en/v2"
+ },
+ {
+  "skill": "React",
+  "resource": "Learn React",
+  "provider": "React Docs",
+  "link": "https://react.dev/learn"
+ },
+ {
+  "skill": "Node.js",
+  "resource": "Learn Node.js",
+  "provider": "Node.js",
+  "link": "https://nodejs.org/en/learn"
+ },
+ {
+  "skill": "Express.js",
+  "resource": "Express Getting Started",
+  "provider": "Express",
+  "link": "https://expressjs.com/en/starter/installing.html"
+ },
+ {
+  "skill": "TypeScript",
+  "resource": "TypeScript Handbook",
+  "provider": "TypeScript",
+  "link": "https://www.typescriptlang.org/docs/handbook/intro.html"
+ },
+ {
+  "skill": "JavaScript",
+  "resource": "JavaScript Guide",
+  "provider": "MDN Web Docs",
+  "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+ },
+ {
+  "skill": "HTML",
+  "resource": "Learn Web Development",
+  "provider": "MDN Web Docs",
+  "link": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+ },
+ {
+  "skill": "CSS",
+  "resource": "Learn Web Development",
+  "provider": "MDN Web Docs",
+  "link": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+ },
+ {
+  "skill": "Angular",
+  "resource": "Angular Tutorials",
+  "provider": "Angular",
+  "link": "https://angular.dev/tutorials"
+ },
+ {
+  "skill": "Python",
+  "resource": "The Python Tutorial",
+  "provider": "Python Docs",
+  "link": "https://docs.python.org/3/tutorial/"
+ },
+ {
+  "skill": "Django",
+  "resource": "Django Tutorial",
+  "provider": "Django Docs",
+  "link": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+ },
+ {
+  "skill": "Flask",
+  "resource": "Flask Quickstart",
+  "provider": "Flask Docs",
+  "link": "https://flask.palletsprojects.com/en/stable/quickstart/"
+ },
+ {
+  "skill": "FastAPI",
+  "resource": "FastAPI Tutorial",
+  "provider": "FastAPI Docs",
+  "link": "https://fastapi.tiangolo.com/tutorial/"
+ },
+ {
+  "skill": "Pandas",
+  "resource": "Getting Started with pandas",
+  "provider": "pandas Docs",
+  "link": "https://pandas.pydata.org/docs/getting_started/"
+ },
+ {
+  "skill": "NumPy",
+  "resource": "NumPy Learn",
+  "provider": "NumPy",
+  "link": "https://numpy.org/learn/"
+ },
+ {
+  "skill": "Scikit-learn",
+  "resource": "scikit-learn Getting Started",
+  "provider": "scikit-learn Docs",
+  "link": "https://scikit-learn.org/stable/getting_started.html"
+ },
+ {
+  "skill": "TensorFlow",
+  "resource": "TensorFlow Tutorials",
+  "provider": "TensorFlow",
+  "link": "https://www.tensorflow.org/tutorials"
+ },
+ {
+  "skill": "PyTorch",
+  "resource": "PyTorch Tutorials",
+  "provider": "PyTorch",
+  "link": "https://pytorch.org/tutorials/"
+ },
+ {
+  "skill": "Apache Spark",
+  "resource": "Spark Quick Start",
+  "provider": "Apache Spark",
+  "link": "https://spark.apache.org/docs/latest/quick-start.html"
+ },
+ {
+  "skill": "Airflow",
+  "resource": "Airflow Tutorial",
+  "provider": "Apache Airflow",
+  "link": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/"
+ },
+ {
+  "skill": "Jenkins",
+  "resource": "Jenkins Tutorials",
+  "provider": "Jenkins",
+  "link": "https://www.jenkins.io/doc/tutorials/"
+ },
+ {
+  "skill": "GitHub Actions",
+  "resource": "GitHub Actions Quickstart",
+  "provider": "GitHub Docs",
+  "link": "https://docs.github.com/en/actions/quickstart"
+ },
+ {
+  "skill": "Terraform",
+  "resource": "Terraform Tutorials",
+  "provider": "HashiCorp Developer",
+  "link": "https://developer.hashicorp.com/terraform/tutorials"
+ },
+ {
+  "skill": "Ansible",
+  "resource": "Ansible Getting Started",
+  "provider": "Ansible Docs",
+  "link": "https://docs.ansible.com/ansible/latest/getting_started/index.html"
+ },
+ {
+  "skill": "Linux",
+  "resource": "Introduction to Linux",
+  "provider": "Linux Foundation",
+  "link": "https://training.linuxfoundation.org/training/introduction-to-linux/"
+ },
+ {
+  "skill": "Android",
+  "resource": "Android Courses",
+  "provider": "Android Developers",
+  "link": "https://developer.android.com/courses"
+ },
+ {
+  "skill": "Kotlin",
+  "resource": "Kotlin Getting Started",
+  "provider": "Kotlin Docs",
+  "link": "https://kotlinlang.org/docs/getting-started.html"
+ },
+ {
+  "skill": "Flutter",
+  "resource": "Flutter Get Started",
+  "provider": "Flutter Docs",
+  "link": "https://docs.flutter.dev/get-started"
+ },
+ {
+  "skill": "Selenium",
+  "resource": "Selenium Documentation",
+  "provider": "Selenium",
+  "link": "https://www.selenium.dev/documentation/"
+ },
+ {
+  "skill": "Postman",
+  "resource": "Postman Getting Started",
+  "provider": "Postman Learning Center",
+  "link": "https://learning.postman.com/docs/getting-started/overview/"
+ },
+ {
+  "skill": "OWASP",
+  "resource": "OWASP Top Ten",
+  "provider": "OWASP",
+  "link": "https://owasp.org/www-project-top-ten/"
+ },
+ {
+  "skill": "Penetration Testing",
+  "resource": "Web Security Academy",
+  "provider": "PortSwigger",
+  "link": "https://portswigger.net/web-security"
+ },
+ {
+  "skill": "Burp Suite",
+  "resource": "Web Security Academy",
+  "provider": "PortSwigger",
+  "link": "https://portswigger.net/web-security"
+ },
+ {
+  "skill": "Nmap",
+  "resource": "Nmap Reference Guide",
+  "provider": "Nmap",
+  "link": "https://nmap.org/book/"
+ },
+ {
+  "skill": "Wireshark",
+  "resource": "Wireshark Documentation",
+  "provider": "Wireshark",
+  "link": "https://www.wireshark.org/docs/"
+ },
+ {
+  "skill": "Agile",
+  "resource": "Agile Coach",
+  "provider": "Atlassian",
+  "link": "https://www.atlassian.com/agile"
+ }
+]

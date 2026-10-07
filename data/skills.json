@@ -1,0 +1,785 @@
+[
+ {
+  "name": "Java",
+  "category": "Programming Language",
+  "aliases": [
+   "core java",
+   "java",
+   "java 11",
+   "java 17",
+   "java 21",
+   "java 8"
+  ]
+ },
+ {
+  "name": "Python",
+  "category": "Programming Language",
+  "aliases": [
+   "python",
+   "python3"
+  ]
+ },
+ {
+  "name": "JavaScript",
+  "category": "Programming Language",
+  "aliases": [
+   "ecmascript",
+   "es6",
+   "javascript"
+  ]
+ },
+ {
+  "name": "TypeScript",
+  "category": "Programming Language",
+  "aliases": [
+   "typescript"
+  ]
+ },
+ {
+  "name": "C++",
+  "category": "Programming Language",
+  "aliases": [
+   "c++"
+  ]
+ },
+ {
+  "name": "C#",
+  "category": "Programming Language",
+  "aliases": [
+   "c#"
+  ]
+ },
+ {
+  "name": "Kotlin",
+  "category": "Programming Language",
+  "aliases": [
+   "kotlin"
+  ]
+ },
+ {
+  "name": "SQL",
+  "category": "Database",
+  "aliases": [
+   "pl/sql",
+   "sql",
+   "t-sql"
+  ]
+ },
+ {
+  "name": "HTML",
+  "category": "Frontend",
+  "aliases": [
+   "html",
+   "html5"
+  ]
+ },
+ {
+  "name": "CSS",
+  "category": "Frontend",
+  "aliases": [
+   "css",
+   "css3"
+  ]
+ },
+ {
+  "name": "Bootstrap",
+  "category": "Frontend",
+  "aliases": [
+   "bootstrap"
+  ]
+ },
+ {
+  "name": "Responsive Design",
+  "category": "Frontend",
+  "aliases": [
+   "responsive design",
+   "responsive web design"
+  ]
+ },
+ {
+  "name": "React",
+  "category": "Frontend",
+  "aliases": [
+   "react",
+   "react.js",
+   "reactjs"
+  ]
+ },
+ {
+  "name": "Redux",
+  "category": "Frontend",
+  "aliases": [
+   "redux"
+  ]
+ },
+ {
+  "name": "Angular",
+  "category": "Frontend",
+  "aliases": [
+   "angular",
+   "angularjs"
+  ]
+ },
+ {
+  "name": "Node.js",
+  "category": "Backend Framework",
+  "aliases": [
+   "node js",
+   "node.js",
+   "nodejs"
+  ]
+ },
+ {
+  "name": "Express.js",
+  "category": "Backend Framework",
+  "aliases": [
+   "express js",
+   "express.js",
+   "expressjs"
+  ]
+ },
+ {
+  "name": "Spring Boot",
+  "category": "Backend Framework",
+  "aliases": [
+   "spring boot",
+   "spring-boot",
+   "springboot"
+  ]
+ },
+ {
+  "name": "Spring Framework",
+  "category": "Backend Framework",
+  "aliases": [
+   "spring core",
+   "spring framework",
+   "spring mvc"
+  ]
+ },
+ {
+  "name": "Spring Security",
+  "category": "Security",
+  "aliases": [
+   "spring security"
+  ]
+ },
+ {
+  "name": "Hibernate/JPA",
+  "category": "Backend Framework",
+  "aliases": [
+   "hibernate",
+   "hibernate/jpa",
+   "jpa",
+   "spring data",
+   "spring data jpa"
+  ]
+ },
+ {
+  "name": "Django",
+  "category": "Backend Framework",
+  "aliases": [
+   "django"
+  ]
+ },
+ {
+  "name": "Flask",
+  "category": "Backend Framework",
+  "aliases": [
+   "flask"
+  ]
+ },
+ {
+  "name": "FastAPI",
+  "category": "Backend Framework",
+  "aliases": [
+   "fastapi"
+  ]
+ },
+ {
+  "name": "MySQL",
+  "category": "Database",
+  "aliases": [
+   "mysql"
+  ]
+ },
+ {
+  "name": "PostgreSQL",
+  "category": "Database",
+  "aliases": [
+   "postgres",
+   "postgresql"
+  ]
+ },
+ {
+  "name": "MongoDB",
+  "category": "Database",
+  "aliases": [
+   "mongo db",
+   "mongodb"
+  ]
+ },
+ {
+  "name": "Redis",
+  "category": "Database",
+  "aliases": [
+   "redis"
+  ]
+ },
+ {
+  "name": "Oracle",
+  "category": "Database",
+  "aliases": [
+   "oracle",
+   "oracle db"
+  ]
+ },
+ {
+  "name": "Stored Procedures",
+  "category": "Database",
+  "aliases": [
+   "stored procedure",
+   "stored procedures"
+  ]
+ },
+ {
+  "name": "Database Design",
+  "category": "Database",
+  "aliases": [
+   "database design",
+   "er diagram",
+   "normalization",
+   "schema design"
+  ]
+ },
+ {
+  "name": "Kafka",
+  "category": "Messaging",
+  "aliases": [
+   "apache kafka",
+   "kafka"
+  ]
+ },
+ {
+  "name": "RabbitMQ",
+  "category": "Messaging",
+  "aliases": [
+   "rabbitmq"
+  ]
+ },
+ {
+  "name": "REST API",
+  "category": "Backend Concept",
+  "aliases": [
+   "rest api",
+   "rest apis",
+   "rest services",
+   "rest web services",
+   "restful",
+   "restful api",
+   "restful apis",
+   "restful services"
+  ]
+ },
+ {
+  "name": "Microservices",
+  "category": "Backend Concept",
+  "aliases": [
+   "micro services",
+   "microservice",
+   "microservices"
+  ]
+ },
+ {
+  "name": "GraphQL",
+  "category": "Backend Concept",
+  "aliases": [
+   "graphql"
+  ]
+ },
+ {
+  "name": "JWT",
+  "category": "Security",
+  "aliases": [
+   "json web token",
+   "jwt"
+  ]
+ },
+ {
+  "name": "OOP",
+  "category": "Backend Concept",
+  "aliases": [
+   "object oriented",
+   "object-oriented",
+   "oop",
+   "oops"
+  ]
+ },
+ {
+  "name": "Data Structures",
+  "category": "Backend Concept",
+  "aliases": [
+   "algorithms",
+   "data structure",
+   "data structures",
+   "dsa"
+  ]
+ },
+ {
+  "name": "Design Patterns",
+  "category": "Backend Concept",
+  "aliases": [
+   "design pattern",
+   "design patterns"
+  ]
+ },
+ {
+  "name": "System Design",
+  "category": "Backend Concept",
+  "aliases": [
+   "system design"
+  ]
+ },
+ {
+  "name": "Swagger/OpenAPI",
+  "category": "Backend Concept",
+  "aliases": [
+   "openapi",
+   "swagger",
+   "swagger/openapi"
+  ]
+ },
+ {
+  "name": "Maven",
+  "category": "Build Tool",
+  "aliases": [
+   "maven"
+  ]
+ },
+ {
+  "name": "Gradle",
+  "category": "Build Tool",
+  "aliases": [
+   "gradle"
+  ]
+ },
+ {
+  "name": "Git",
+  "category": "Version Control",
+  "aliases": [
+   "bitbucket",
+   "git",
+   "github",
+   "gitlab"
+  ]
+ },
+ {
+  "name": "Docker",
+  "category": "DevOps",
+  "aliases": [
+   "docker",
+   "docker compose",
+   "dockerfile"
+  ]
+ },
+ {
+  "name": "Kubernetes",
+  "category": "DevOps",
+  "aliases": [
+   "k8s",
+   "kubernetes"
+  ]
+ },
+ {
+  "name": "Jenkins",
+  "category": "DevOps",
+  "aliases": [
+   "jenkins"
+  ]
+ },
+ {
+  "name": "GitHub Actions",
+  "category": "DevOps",
+  "aliases": [
+   "github actions"
+  ]
+ },
+ {
+  "name": "CI/CD",
+  "category": "DevOps",
+  "aliases": [
+   "ci cd",
+   "ci/cd",
+   "cicd",
+   "continuous delivery",
+   "continuous deployment",
+   "continuous integration"
+  ]
+ },
+ {
+  "name": "Terraform",
+  "category": "DevOps",
+  "aliases": [
+   "terraform"
+  ]
+ },
+ {
+  "name": "Ansible",
+  "category": "DevOps",
+  "aliases": [
+   "ansible"
+  ]
+ },
+ {
+  "name": "Linux",
+  "category": "DevOps",
+  "aliases": [
+   "linux",
+   "ubuntu",
+   "unix"
+  ]
+ },
+ {
+  "name": "Shell Scripting",
+  "category": "DevOps",
+  "aliases": [
+   "bash",
+   "bash scripting",
+   "shell script",
+   "shell scripting"
+  ]
+ },
+ {
+  "name": "Prometheus/Grafana",
+  "category": "DevOps",
+  "aliases": [
+   "grafana",
+   "prometheus",
+   "prometheus/grafana"
+  ]
+ },
+ {
+  "name": "AWS",
+  "category": "Cloud",
+  "aliases": [
+   "amazon web services",
+   "aws",
+   "aws lambda",
+   "ec2",
+   "rds",
+   "s3"
+  ]
+ },
+ {
+  "name": "Azure",
+  "category": "Cloud",
+  "aliases": [
+   "azure",
+   "microsoft azure"
+  ]
+ },
+ {
+  "name": "GCP",
+  "category": "Cloud",
+  "aliases": [
+   "gcp",
+   "google cloud",
+   "google cloud platform"
+  ]
+ },
+ {
+  "name": "Agile",
+  "category": "Methodology",
+  "aliases": [
+   "agile",
+   "kanban",
+   "scrum"
+  ]
+ },
+ {
+  "name": "Jira",
+  "category": "Tools",
+  "aliases": [
+   "jira"
+  ]
+ },
+ {
+  "name": "Postman",
+  "category": "Tools",
+  "aliases": [
+   "postman"
+  ]
+ },
+ {
+  "name": "JUnit",
+  "category": "Testing",
+  "aliases": [
+   "junit",
+   "junit5",
+   "mockito",
+   "testng"
+  ]
+ },
+ {
+  "name": "Selenium",
+  "category": "Testing",
+  "aliases": [
+   "selenium",
+   "selenium webdriver"
+  ]
+ },
+ {
+  "name": "Cypress",
+  "category": "Testing",
+  "aliases": [
+   "cypress"
+  ]
+ },
+ {
+  "name": "Manual Testing",
+  "category": "Testing",
+  "aliases": [
+   "manual testing",
+   "test case",
+   "test cases",
+   "test plans",
+   "test scenarios"
+  ]
+ },
+ {
+  "name": "API Testing",
+  "category": "Testing",
+  "aliases": [
+   "api testing",
+   "rest assured"
+  ]
+ },
+ {
+  "name": "Pandas",
+  "category": "Data Science",
+  "aliases": [
+   "pandas"
+  ]
+ },
+ {
+  "name": "NumPy",
+  "category": "Data Science",
+  "aliases": [
+   "numpy"
+  ]
+ },
+ {
+  "name": "Data Visualization",
+  "category": "Data Science",
+  "aliases": [
+   "data visualization",
+   "matplotlib",
+   "power bi",
+   "powerbi",
+   "seaborn",
+   "tableau"
+  ]
+ },
+ {
+  "name": "Statistics",
+  "category": "Data Science",
+  "aliases": [
+   "hypothesis testing",
+   "statistical analysis",
+   "statistics"
+  ]
+ },
+ {
+  "name": "ETL",
+  "category": "Data Engineering",
+  "aliases": [
+   "data pipeline",
+   "data pipelines",
+   "etl"
+  ]
+ },
+ {
+  "name": "Apache Spark",
+  "category": "Data Engineering",
+  "aliases": [
+   "apache spark",
+   "pyspark",
+   "spark"
+  ]
+ },
+ {
+  "name": "Airflow",
+  "category": "Data Engineering",
+  "aliases": [
+   "airflow",
+   "apache airflow"
+  ]
+ },
+ {
+  "name": "Data Warehousing",
+  "category": "Data Engineering",
+  "aliases": [
+   "bigquery",
+   "data warehouse",
+   "data warehousing",
+   "redshift",
+   "snowflake"
+  ]
+ },
+ {
+  "name": "Machine Learning",
+  "category": "Machine Learning",
+  "aliases": [
+   "machine learning",
+   "ml models"
+  ]
+ },
+ {
+  "name": "Scikit-learn",
+  "category": "Machine Learning",
+  "aliases": [
+   "scikit learn",
+   "scikit-learn",
+   "sklearn"
+  ]
+ },
+ {
+  "name": "TensorFlow",
+  "category": "Machine Learning",
+  "aliases": [
+   "keras",
+   "tensorflow"
+  ]
+ },
+ {
+  "name": "PyTorch",
+  "category": "Machine Learning",
+  "aliases": [
+   "pytorch"
+  ]
+ },
+ {
+  "name": "Deep Learning",
+  "category": "Machine Learning",
+  "aliases": [
+   "cnn",
+   "deep learning",
+   "neural networks",
+   "rnn"
+  ]
+ },
+ {
+  "name": "NLP",
+  "category": "Machine Learning",
+  "aliases": [
+   "natural language processing",
+   "nlp"
+  ]
+ },
+ {
+  "name": "LLMs",
+  "category": "Machine Learning",
+  "aliases": [
+   "generative ai",
+   "langchain",
+   "large language model",
+   "large language models",
+   "llm",
+   "llms",
+   "openai api",
+   "prompt engineering"
+  ]
+ },
+ {
+  "name": "Android",
+  "category": "Mobile",
+  "aliases": [
+   "android",
+   "android sdk",
+   "android studio"
+  ]
+ },
+ {
+  "name": "Flutter",
+  "category": "Mobile",
+  "aliases": [
+   "dart",
+   "flutter"
+  ]
+ },
+ {
+  "name": "React Native",
+  "category": "Mobile",
+  "aliases": [
+   "react native",
+   "react-native"
+  ]
+ },
+ {
+  "name": "Network Security",
+  "category": "Security",
+  "aliases": [
+   "firewall",
+   "firewalls",
+   "network security",
+   "vpn"
+  ]
+ },
+ {
+  "name": "OWASP",
+  "category": "Security",
+  "aliases": [
+   "owasp",
+   "owasp top 10"
+  ]
+ },
+ {
+  "name": "Penetration Testing",
+  "category": "Security",
+  "aliases": [
+   "ethical hacking",
+   "pen testing",
+   "penetration testing",
+   "pentesting",
+   "vulnerability assessment"
+  ]
+ },
+ {
+  "name": "Wireshark",
+  "category": "Security",
+  "aliases": [
+   "wireshark"
+  ]
+ },
+ {
+  "name": "Nmap",
+  "category": "Security",
+  "aliases": [
+   "nmap"
+  ]
+ },
+ {
+  "name": "Burp Suite",
+  "category": "Security",
+  "aliases": [
+   "burp suite",
+   "burpsuite"
+  ]
+ },
+ {
+  "name": "SIEM",
+  "category": "Security",
+  "aliases": [
+   "qradar",
+   "siem",
+   "splunk"
+  ]
+ },
+ {
+  "name": "Cryptography",
+  "category": "Security",
+  "aliases": [
+   "cryptography",
+   "encryption"
+  ]
+ }
+]
